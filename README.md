@@ -1,2 +1,3 @@
 # gyakorl-s240608
-#böngészőből modosítottam
+#böngészőből módosítottam
+#local readme módosítás
